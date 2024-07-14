@@ -1,12 +1,12 @@
 [
-    {"alumno": "Pedro", "nota": 9.09, "ranking": 10},
-    {"alumno": "Juan", "nota": 4.00, "ranking": 150},
-    {"alumno": "Ana", "nota": 8.50, "ranking": 20},
-    {"alumno": "Luis", "nota": 7.75, "ranking": 40},
-    {"alumno": "Maria", "nota": 6.80, "ranking": 60},
-    {"alumno": "Carlos", "nota": 9.50, "ranking": 5},
-    {"alumno": "Sofia", "nota": 7.20, "ranking": 50},
-    {"alumno": "Elena", "nota": 5.00, "ranking": 100},
-    {"alumno": "Andres", "nota": 6.00, "ranking": 80},
-    {"alumno": "Lucia", "nota": 7.00, "ranking": 55}
+    {"alumno": "Pedro", "nota": 9.09, "ranking": 5},
+    {"alumno": "Juan", "nota": 4.00, "ranking": 30},
+    {"alumno": "Ana", "nota": 8.50, "ranking": 10},
+    {"alumno": "Luis", "nota": 7.75, "ranking": 20},
+    {"alumno": "Maria", "nota": 6.80, "ranking": 30},
+    {"alumno": "Carlos", "nota": 9.50, "ranking": 3},
+    {"alumno": "Sofia", "nota": 7.20, "ranking": 25},
+    {"alumno": "Elena", "nota": 5.00, "ranking": 40},
+    {"alumno": "Andres", "nota": 6.00, "ranking": 35},
+    {"alumno": "Lucia", "nota": 7.00, "ranking": 15}
 ]
